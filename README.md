@@ -19,4 +19,3 @@ Sample-GoogleAnalytics Portfolio.pbix dashboard template is created for the visu
 The user can filter to select a specific date by using a date slicer.
 The website can be visited from the link below.
 [Google Sites - Personal Page](https://sites.google.com/view/ercanpilicer)
-
