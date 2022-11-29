@@ -18,4 +18,4 @@ On top of the dashboard, there are three different slicers to filter while visua
 **Sample-GoogleAnalytics Portfolio.pbix** dashboard template is created for the visualisation of a portfolio which is connected to Google Analytics platform.
 The user can filter to select a specific date by using a date slicer.
 The website can be visited from the link below.  
-[Google Sites - Personal Page](https://sites.google.com/view/ercanpilicer?target=_blank)
+[Google Sites - Personal Page](https://sites.google.com/view/ercanpilicer" target="_blank)
