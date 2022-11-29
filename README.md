@@ -6,6 +6,7 @@ This repository contains sample Power BI templates.
 
 **Sample-Finance.pbix** dashboard template is created for the visualisation of an execution summary. 
 The user can filter different metrics by using a date slicer or even selecting a specific country from the table.  
+
 ![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/Sample-Finance.png?raw=true)
 
 ### Patient Survey Dashboard
@@ -22,6 +23,7 @@ On top of the dashboard, there are three different slicers to filter while visua
 **Sample-GoogleAnalytics-Portfolio.pbix** dashboard template is created for the visualisation of a portfolio which is connected to Google Analytics platform.
 The user can filter to select a specific date by using a date slicer.
 The website can be visited from the link below.  
+
 [Google Sites - Personal Page](https://sites.google.com/view/ercanpilicer)  
 
 ![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/Sample-GoogleAnalytics-Portfolio.png?raw=true)
