@@ -7,7 +7,7 @@ This repository contains sample Power BI templates.
 **Sample-Finance.pbix** dashboard template is created for the visualisation of an execution summary. 
 The user can filter different metrics by using a date slicer or even selecting a specific country from the table.  
 
-![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/Sample-Finance.png?raw=true)
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-Finance.png?raw=true)
 
 ### Patient Survey Dashboard
 
@@ -15,8 +15,8 @@ The user can filter different metrics by using a date slicer or even selecting a
 This dashboard contains a **Python** script, thus the visual script option should be enabled once it is opened.
 On top of the dashboard, there are three different slicers to filter while visualizing the plots.  
 
-![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/Sample-Hospital-Survey-1.png?raw=true)
-![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/Sample-Hospital-Survey-2.png?raw=true)
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-Hospital-Survey-1.png?raw=true)
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-Hospital-Survey-2.png?raw=true)
 
 ### Google Analytics Portfolio Dashboard
 
@@ -26,4 +26,4 @@ The website can be visited from the link below.
 
 [Google Sites - Personal Page](https://sites.google.com/view/ercanpilicer)  
 
-![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/Sample-GoogleAnalytics-Portfolio.png?raw=true)
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-GoogleAnalytics-Portfolio.png?raw=true)
