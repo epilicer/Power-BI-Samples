@@ -27,3 +27,16 @@ The website can be visited from the link below.
 [Google Sites - Personal Page](https://sites.google.com/view/ercanpilicer)  
 
 ![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-GoogleAnalytics-Portfolio.png?raw=true)
+
+### UK Special Education Need Stats Dashboard
+
+**Sample-UK-SEN-Stats.pbix** dashboard template is created for the visualisation of a UK SEN stats.
+The user can filter to select a specific date by using a date slicer.
+The website can be visited from the link below.  
+
+[Statistics: special educational needs](https://www.gov.uk/government/collections/statistics-special-educational-needs-sen)  
+
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-UK-SEN-Stats-1.png?raw=true)
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-UK-SEN-Stats-2.png?raw=true)
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-UK-SEN-Stats-3.png?raw=true)
+![Screenshot](https://github.com/epilicer/Power-BI-Samples/blob/main/images/Sample-UK-SEN-Stats-4.png?raw=true)
